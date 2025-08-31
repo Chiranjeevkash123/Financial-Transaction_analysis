@@ -16,10 +16,8 @@ cd Financial-Transaction_analysis
 
 You need to download the dataset manually because it is large and cannot be stored on GitHub.
 
-Download it from Kaggle:
-```
-(https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download)
-```
+Download it from Kaggle:  (https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?resource=download)
+
 After downloading, place the file in:
 data/transactions_data.csv
 ```
