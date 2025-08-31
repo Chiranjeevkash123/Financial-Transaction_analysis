@@ -54,7 +54,7 @@ python scripts/main.py
 
 
 ## 📌 Purpose
-```
+
 The purpose of this project is to:
 - **Analyze Financial Transactions** – Understand spending patterns, transaction frequency, and payment methods.
 - **Detect Fraudulent Transactions** – Identify unusual or suspicious activities using statistical and machine learning techniques.
