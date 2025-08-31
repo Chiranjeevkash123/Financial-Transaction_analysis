@@ -50,17 +50,5 @@ python scripts/main.py
 
 # Project Structure
 
-Financial-Transaction_analysis/
-│
-├── data/                     # Dataset folder (ignored in Git)
-│   └── transactions_data.csv
-│
-├── scripts/
-│   ├── main.py               # Entry point for the project
-│   └── load_data.py          # Script for loading and processing dataset
-│
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
-
-
+<img width="595" height="281" alt="image" src="https://github.com/user-attachments/assets/54aae9c8-ddc2-4576-9133-f160db8cfe0a" />
 
