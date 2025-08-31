@@ -52,3 +52,15 @@ python scripts/main.py
 
 <img width="595" height="281" alt="image" src="https://github.com/user-attachments/assets/54aae9c8-ddc2-4576-9133-f160db8cfe0a" />
 
+
+## 📌 Purpose
+```
+The purpose of this project is to:
+- **Analyze Financial Transactions** – Understand spending patterns, transaction frequency, and payment methods.
+- **Detect Fraudulent Transactions** – Identify unusual or suspicious activities using statistical and machine learning techniques.
+- **Generate Business Insights** – Visualize transaction trends for decision-making.
+- **Build Data Analysis Skills** – A practical project for learning data manipulation, visualization, and basic fraud detection.
+
+---
+
+
